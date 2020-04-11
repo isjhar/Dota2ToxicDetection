@@ -1,637 +1,588 @@
 Sentence #;Word;POS;Tag
 Sentence: 1;yes;RB;O
 ;dog;NN;B-bad
-;yeah;JJ;O
-;fast;JJ;O
+Sentence: 2;yeah;RB;O
+Sentence: 3;fast;RB;O
 ;and;CC;O
 ;furious;JJ;O
-;too;RB;O
-;fas;JJ;O
-;haha;NN;O
-;sad;JJ;O
-Sentence: 2;no;DT;O
+Sentence: 4;too;RB;O
+;fas;RB;O
+Sentence: 5;haha;NN;O
+Sentence: 6;sad;JJ;O
+Sentence: 7;no;DT;O
 ;idiot;NN;B-bad
-;we;PRP;O
+Sentence: 8;we;PRP;O
 ;too;RB;I-pra
-;professional;JJ;I-pra
-;laughing;VBG;O
-;out;RP;O
-;loud;JJ;O
-Sentence: 3;haha;NN;O
-;commend;VBP;O
-;me;PRP;O
-;thank;VB;B-pra
-;you;PRP;I-pra
-;easy;JJ;O
-Sentence: 4;so;RB;O
-;yeah;JJ;O
+;pro;JJ;I-pra
+Sentence: 9;lol;NN;O
+Sentence: 10;HAHAH;NNP;O
+Sentence: 11;COMMEND;VB;O
+;ME;NNP;O
+;TY;NNP;B-pra
+Sentence: 12;EZ;IN;O
+Sentence: 13;so;RB;O
+;ya;JJ;O
 ;mama;NN;B-bad
 ;likes;VBZ;I-bad
-;penis;NN;B-bad
+;dick;NN;B-bad
 ;ehh;NN;O
-;figures;NNS;O
-;your;PRP;O
+;?;.;O
+Sentence: 14;ur;PRP;O
 ;not;RB;O
 ;even;RB;O
 ;a;DT;O
 ;good;JJ;O
 ;hooker;NN;B-her
 ;kid;NN;O
-;passive;JJ;O
-;shadow;NN;B-hero
-;blade;NN;I-hero
-;good;JJ;B-pra
-;game;NN;I-pra
-Sentence: 5;reprot;NN;O
-;sad;NN;O
-;fucking;VBG;O
+Sentence: 15;passive;JJ;O
+;shadow;NN;B-her
+;blade;NN;I-her
+;?;.;O
+Sentence: 16;gg;JJ;B-pra
+Sentence: 17;reprot;NN;O
+Sentence: 18;SAD;NN;O
+Sentence: 19;fucking;VBG;B-bad
 ;reported;VBN;O
-;axe;NN;B-her
-;worst;.;O
-;hook;JJS;O
-;in;NN;O
-;history;IN;O
-;you;NNP;O
-;thought;.;O
-;instant;JJ;O
-;message;NN;O
-;the;DT;O
+;axe;IN;B-her
+Sentence: 20;WORST;JJS;B-bad
+;HOOK;NN;I-bad
+;IN;IN;O
+;HISTORY;NNP;O
+Sentence: 21;YOU;PRP;O
+;THOUGHT;VBD;O
+Sentence: 22;IM;NNP;O
+;THE;DT;O
+;#;.;O
 ;1;CD;O
-;roamer;NN;B-her
-;not;RB;O
-;applicable;JJ;O
-;stupidd;NN;O
-;piudge;NN;B-her
-;stupid;JJ;O
-;nice;JJ;O
+;ROAMER;NNP;B-her
+;NA;NNP;O
+Sentence: 23;STUPIDD;NNP;B-bad
+;PIUDGE;NNP;B-her
+Sentence: 24;STUPID;JJ;B-bad
+;!;.;O
+Sentence: 25;nice;JJ;B-pra
 ;ult;NN;O
 ;medusa;NN;B-her
-;commended;VBD;O
-;downys;NNS;O
-;get;VB;O
+Sentence: 26;commended;VBD;O
+Sentence: 27;downys;NNS;O
+;get;VBP;O
 ;dumked;VBN;O
-;easy;JJ;O
+Sentence: 28;ez;JJ;O
 ;game;NN;O
-;thank;VB;B-pra
-;you;PRP;I-pra
-;thank;VB;B-pra
-;you;PRP;I-pra
-;sooo;RB;O
-;ezq;FW;O
-;commend;VBP;O
+Sentence: 29;ty;NNP;B-pra
+;ty;NNP;I-pra
+Sentence: 30;SOOO;RB;B-pra
+;EZQ;FW;I-pra
+;!;.;O
+Sentence: 31;commend;VB;O
 ;me;PRP;O
-;command;VB;O
+;!;.;O
+Sentence: 32;command;NN;O
 ;me;PRP;O
-Sentence: 6;good;JJ;B-pra
-;game;NN;I-pra
-Sentence: 7;axe;NN;B-her
+;!!;VBD;O
+Sentence: 33;gg;JJ;B-pra
+Sentence: 34;axe;NN;B-her
 ;is;VBZ;O
 ;axe;IN;B-her
-Sentence: 8;sorry;JJ;O
+Sentence: 35;sorry;JJ;O
 ;nex;NN;O
-;i;FW;O
+Sentence: 36;i;FW;O
 ;killed;VBN;O
-;you;PRP;O
-;almost;RB;O
-;good;JJ;B-pra
-;game;NN;I-pra
-Sentence: 9;push;NN;O
-;not;RB;O
+;u;PRP;O
+Sentence: 37;almost;RB;O
+Sentence: 38;gg;JJ;B-pra
+Sentence: 39;PUSH;NN;O
+Sentence: 40;not;RB;O
 ;defending;VBG;O
-;dodger;JJ;B-her
+Sentence: 41;dodger;JJ;B-her
 ;lc;NN;O
-;swap;NN;O
+Sentence: 42;swap;NN;O
 ;commend;VBP;O
-;thank;VB;B-pra
-;you;PRP;I-pra
-;swap;VB;O
+;ty;VB;B-pra
+Sentence: 43;swap;VB;O
 ;commend;VB;O
-;thank;VB;B-pra
-;you;PRP;I-pra
-Sentence: 10;what;WP;O
-;jeje;NN;O
-;family;NN;O
-;free;JJ;O
+;ty;VB;B-pra
+Sentence: 44;what;WP;O
+Sentence: 45;jeje;NN;O
+;fAM;NN;O
+Sentence: 46;free;JJ;O
 ;farming;NN;O
 ;ls;VBZ;O
-;not;RB;O
+Sentence: 47;not;RB;O
 ;coming;VBG;O
 ;into;IN;O
 ;play;NN;O
-;let;VBD;O
+Sentence: 48;let;VBD;O
 ;end;NN;O
-;storm;NN;O
+Sentence: 49;storm;NN;O
 ;fat;JJ;O
 ;yet;RB;O
-;zzz;NN;O
-;okay;JJ;O
-;you;PRP;O
+Sentence: 50;zzz;NN;O
+Sentence: 51;okay;JJ;O
+Sentence: 52;u;PRP;O
 ;useless;JJ;O
 ;anyways;NNS;O
-;does;VBZ;O
+Sentence: 53;does;VBZ;O
 ;it;PRP;O
 ;matter;NN;O
-;30;CD;O
+Sentence: 54;30;CD;O
 ;mins;NNS;O
 ;in;IN;O
-;cant;JJ;O
+Sentence: 55;cant;JJ;O
 ;seem;VBP;O
 ;to;TO;O
 ;hit;VB;O
 ;a;DT;O
 ;singel;NN;O
 ;call;NN;O
-;rolling;VBG;O
-;on;IN;O
-;the;DT;O
-;floor;NN;O
-;laughing;VBG;O
-;still;RB;O
+Sentence: 56;rofl;VBG;O
+Sentence: 57;still;RB;O
 ;didn't;JJ;O
 ;hirt;NN;O
-;aha;NN;O
-;better;JJR;O
+Sentence: 58;aha;NN;O
+Sentence: 59;better;JJR;O
 ;share;NN;O
 ;hero;NN;B-her
 ;control;NN;O
-;to;TO;O
+Sentence: 60;to;TO;O
 ;someone;NN;O
 ;else;RB;O
-;might;MD;O
+Sentence: 61;might;MD;O
 ;start;VB;O
 ;hitting;VBG;O
 ;your;PRP;O
 ;q;NN;O
-;rolling;VBG;O
-;on;IN;O
-;the;DT;O
-;floor;NN;O
-;laughing;VBG;O
-;fucking;JJ;O
-;retard;VB;O
-;yeah;RB;O
-;he;PRP;O
+Sentence: 62;rofl;NN;O
+Sentence: 63;fucking;VBG;B-bad
+Sentence: 64;retard;VB;O
+Sentence: 65;yea;NN;O
+Sentence: 66;he;PRP;O
 ;had;VBD;O
 ;an;DT;O
-;amazing;JJ;O
+Sentence: 67;amazing;JJ;B-pra
 ;blast;NN;O
 ;laen;NN;O
-;at;IN;O
-;mid;JJ;O
-;20;CD;O
+Sentence: 68;at;IN;O
+;mid;NN;O
+Sentence: 69;20;CD;O
 ;mind;NNS;O
 ;scythe;VBP;O
 ;on;IN;O
-;over;IN;O
-;dose;NN;O
-;yet;RB;O
+;od;IN;O
+Sentence: 70;yet;RB;O
 ;my;PRP$;O
-;ls;NNS;O
-;wants;VBZ;O
+Sentence: 71;ls;NNS;O
+Sentence: 72;wants;VBZ;O
 ;to;TO;O
-;farm;VB;O
-;his;PRP$;O
+;farm;NN;O
+Sentence: 73;his;PRP$;O
 ;orchid;JJ;O
-;die;NN;O
-;bitch;NN;B-bad
-;oh;UH;O
+Sentence: 74;die;VB;O
+;btitch;NN;B-bad
+Sentence: 75;oh;UH;O
+Sentence: 76;my;PRP$;B-pra
+;god;NN;I-pra
+Sentence: 77;oh;UH;O
 ;my;PRP$;B-pra
 ;god;NN;I-pra
-;oh;UH;O
-;my;PRP$;B-pra
-;god;NN;I-pra
-;oh;UH;O
-;my;PRP$;B-pra
-;fucking;JJ;I-pra
-;god;NN;I-pra
-Sentence: 11;heartshaker;NN;B-her
-;man;NN;O
+Sentence: 78;oh;UH;O
+Sentence: 79;my;PRP$;O
+Sentence: 80;fucking;JJ;B-bad
+;god;NN;I-bad
+Sentence: 81;heartshaker;NN;B-her
+Sentence: 82;man;NN;O
 ;that;WDT;O
 ;silence;NN;O
 ;on;IN;O
 ;axe;RB;O
-;good;JJ;B-pra
+Sentence: 83;good;JJ;B-pra
 ;game;NN;I-pra
-Sentence: 12;yeah;RB;B-pra
-;well;RB;I-pra
+Sentence: 84;yeah;RB;O
+Sentence: 85;well;RB;B-pra
 ;played;VBN;I-pra
-;gege;NN;B-pra
+Sentence: 86;gege;NN;B-pra
 ;guys;NNS;O
-;hahahahaha;NN;O
-;sad;JJ;O
-;why;WRB;O
-;clash;NN;O
-;zzz;NN;O
-;you;PRP;O
+Sentence: 87;hahahahaha;NN;O
+Sentence: 88;sad;JJ;O
+Sentence: 89;Y;IN;O
+Sentence: 90;clash;NN;O
+Sentence: 91;zzz;NN;O
+Sentence: 92;u;PRP;O
 ;lost;VBD;O
 ;4v4;CD;O
-;yeah;NN;O
-;do;VBP;O
+Sentence: 93;yeah;NN;O
+Sentence: 94;do;VBP;O
 ;i;FW;O
 ;care;NN;O
-;rolling;VBG;O
-;on;IN;O
-;the;DT;O
-;floor;NN;O
-;laughing;VBG;O
-;call;NN;O
+Sentence: 95;rofl;NN;O
+Sentence: 96;call;VB;O
 ;your;PRP$;O
 ;mom;NN;O
-;you;PRP;O
+Sentence: 97;you;PRP;O
 ;better;RBR;O
 ;call;VB;O
 ;your;PRP$;O
 ;mom;NN;O
-;over;IN;O
-;dose;NN;O
-;you;PRP;O
+;od;NN;B-bad
+Sentence: 98;u;PRP;O
 ;need;VBP;O
 ;her;PRP$;O
-;breastfeed;NN;O
-;q;VB;O
-;whats;NNS;O
-;q;VB;O
-;i;FW;O
+;breastfeed;NN;B-bad
+Sentence: 99;?;.;O
+Sentence: 100;q;VB;O
+;?;.;O
+Sentence: 101;whats;NNS;O
+;q;VBP;O
+Sentence: 102;i;FW;O
 ;don't;VBP;O
 ;know;VB;O
 ;q;VB;O
-;brother;NN;O
-;i;FW;O
-;play;NN;O
+;bruh;NN;O
+;?;.;O
+Sentence: 103;i;PRP;O
+;play;VB;O
 ;legacy;NN;O
-;you;PRP;O
+Sentence: 104;u;PRP;O
 ;play;VBP;O
-;laughing;VBG;O
-;out;RP;O
-;loud;RB;O
-;good;JJ;B-pra
-;game;NN;I-pra
-;end;NN;O
-;end;NN;O
-;ehnd;NN;O
-;sadsadnsadsa;NN;O
-;dsad;NN;O
-;get;VB;O
+;lol;VBG;O
+;gg;NN;I-pra
+Sentence: 105;end;NN;O
+Sentence: 106;end;NN;O
+Sentence: 107;ehnd;NN;O
+Sentence: 108;sadsadnsadsa;NN;O
+Sentence: 109;dsad;NN;O
+Sentence: 110;get;VB;O
 ;back;RB;O
-;over;IN;O
+Sentence: 111;over;IN;O
 ;dose;NN;O
-;please;VB;O
-;i;FW;O
+Sentence: 112;pls;VB;O
+Sentence: 113;i;PRP;O
 ;got;VBD;O
 ;you;PRP;O
-;no;DT;O
+Sentence: 114;no;DT;O
 ;call;NN;O
-;no;DT;O
+Sentence: 115;no;DT;O
 ;load;NN;O
-;wer;NN;O
+Sentence: 116;wer;WRB;O
 ;are;VBP;O
 ;you;PRP;O
-;over;IN;O
-;dose;NN;O
-Sentence: 13;wrong;JJ;O
+;od;NN;O
+Sentence: 117;wrong;JJ;O
 ;person;NN;O
-;fuck;NN;B-pra
-;you;PRP;I-pra
-;thank;VBP;B-pra
-;you;PRP;I-pra
+Sentence: 118;fuckkk;NN;B-pra
+;youuuuu;PRP;I-pra
+Sentence: 119;ty;NNS;B-pra
 ;pudge;VBP;O
-Sentence: 14;drow;NN;O
-;remember;VBP;O
+Sentence: 120;drow;NN;O
+Sentence: 121;remember;VBP;O
 ;me;PRP;O
 ;last;JJ;O
 ;game;NN;O
-;haha;NN;O
-;waot;NN;O
-;haha;NN;O
-Sentence: 15;ec;FW;O
-;haha;FW;O
-;nca;FW;O
+Sentence: 122;haha;NN;O
+Sentence: 123;waot;WP;O
+Sentence: 124;haha;NN;O
+Sentence: 125;ec;FW;O
+Sentence: 126;haha;NN;O
+Sentence: 127;nca;FW;O
 ;game;NN;O
-;commend;VBP;O
+Sentence: 128;commend;VB;O
 ;me;PRP;O
-Sentence: 16;extreme;JJ;O
-;droll;JJ;O
-;so;RB;O
+Sentence: 129;????;IN;O
+Sentence: 130;xd;NN;O
+Sentence: 131;so;RB;O
 ;good;JJ;B-pra
 ;game;NN;I-pra
-;3;CD;O
-;griefers;NNS;B-her
-;on;IN;O
-;my;PRP$;O
-;team;NN;O
-;extreme;JJ;O
-;droll;JJ;B-her
-;xdddd;NN;O
-;3;CD;O
+Sentence: 132;3;CD;O
 ;griefers;NNS;B-her
 ;versus;CC;O
 ;ti;NNS;O
 ;finals;NNS;O
 ;tryhards;NNS;O
-;yes;RB;O
-;good;JJ;B-pra
+Sentence: 133;yes;RB;O
+Sentence: 134;good;JJ;B-pra
 ;game;NN;I-pra
 ;was;VBD;O
 ;had;VBN;O
-Sentence: 17;well;RB;B-pra
+Sentence: 135;well;RB;B-pra
 ;played;VBN;I-pra
 ;shit;NN;O
 ;cunts;NNS;O
-Sentence: 18;feed;NN;O
+Sentence: 136;feed;NN;O
 ;me;PRP;O
-;go;VB;O
+Sentence: 137;go;VB;O
 ;bot;NN;O
-;please;VB;O
+Sentence: 138;please;VB;O
 ;don't;VBP;O
 ;be;VB;O
 ;a;DT;O
 ;trap;NN;O
-;ee;NN;O
+Sentence: 139;ee;NN;O
 ;sama;NN;O
 ;is;VBZ;O
 ;here;RB;O
-Sentence: 19;happy;JJ;O
+Sentence: 140;happy;JJ;O
 ;no;DT;O
 ;cour;NN;O
 ;day;NN;O
-;i;FW;O
+Sentence: 141;i;FW;O
 ;will;MD;O
-;sure;RB;O
-;no;DT;O
+Sentence: 142;sure;RB;O
+Sentence: 143;no;DT;O
 ;trap;NN;O
-;only;RB;O
+Sentence: 144;only;RB;O
 ;me;PRP;O
-;laughing;VBG;O
-;out;RP;O
-;loud;JJ;O
-;ee;NN;O
-Sentence: 20;good;JJ;O
+Sentence: 145;lol;VBG;O
+Sentence: 146;ee;NN;O
+Sentence: 147;good;JJ;O
 ;game;NN;O
-;i;FW;O
+Sentence: 148;i;PRP;O
 ;go;VB;O
 ;away;RB;O
 ;from;IN;O
 ;keyboard;NN;O
-;all;DT;O
+Sentence: 149;all;DT;O
 ;report;NN;O
 ;tinker;VBP;O
 ;please;VB;O
-;he;PRP;O
+Sentence: 150;he;PRP;O
 ;is;VBZ;O
 ;troller;NN;O
-;that;IN;O
+Sentence: 151;that;IN;O
 ;team;NN;O
-;commend;VBP;O
+Sentence: 152;commend;VBP;O
 ;me;PRP;O
-Sentence: 21;good;JJ;B-pra
-;game;NN;I-pra
-;wrong;JJ;O
-;person;NN;O
-;because;IN;O
+Sentence: 153;ggwp;JJ;B-pra
+Sentence: 154;because;IN;O
 ;you;PRP;O
 ;have;VBP;O
 ;blink;NN;O
-Sentence: 22;this;DT;O
+Sentence: 155;this;DT;O
 ;is;VBZ;O
-;kiss;NN;O
-;on;IN;O
-;the;DT;O
-;lips;NNS;O
+;kotl;NN;O
 ;from;IN;O
 ;last;JJ;O
 ;game;NN;O
+;,;.;O
 ;can;MD;O
 ;you;PRP;O
 ;just;RB;O
 ;let;VB;O
 ;us;PRP;O
 ;finish;VB;O
-Sentence: 23;never;RB;O
+;?;.;O
+Sentence: 156;never;RB;O
 ;give;VB;B-pra
 ;up;RP;I-pra
-Sentence: 24;dance;NN;O
-;good;JJ;O
-;game;NN;O
-;fucking;VBG;O
+Sentence: 157;dance;NN;O
+Sentence: 158;gg;NN;O
+Sentence: 159;fking;VBG;B-bad
 ;clock;NN;O
-;talking;VBG;O
+Sentence: 160;talking;VBG;O
 ;more;JJR;O
-;easy;JJ;O
+Sentence: 161;ez;JJ;O
 ;dog;NN;B-bad
-;otak;NN;B-bad
-;cibai;NN;B-bad
-;lancau;NN;B-bad
-;professional;JJ;O
-;clock;NN;O
-;haha;NN;O
-Sentence: 25;brother;NN;O
-;you;PRP;O
+Sentence: 162;otak;NN;B-bad
+;cibai;NN;I-bad
+Sentence: 163;lancau;NN;B-bad
+Sentence: 164;pro;JJ;B-pra
+;clock;NN;B-her
+Sentence: 165;haha;NN;O
+Sentence: 166;bro;NN;O
+Sentence: 167;u;PRP;O
 ;can;MD;O
-;see;VB;O
+Sentence: 168;see;VB;O
 ;axe;JJ;O
-;call;NN;O
-;good;JJ;B-pra
-;game;NN;I-pra
-Sentence: 26;saying;VBG;O
-;150;CD;O
+;?;.;O
+Sentence: 169;call;NN;O
+;?;.;O
+Sentence: 170;gg;JJ;B-pra
+Sentence: 171;lolol;NN;O
+Sentence: 172;150;CD;O
 ;bashes;NNS;O
-;fucking;JJ;O
-;dogs;NNS;O
-;easy;JJ;O
+Sentence: 173;fucking;VBG;B-bad
+;dogs;NNS;I-bad
+Sentence: 174;ez;JJ;O
 ;game;NN;O
-Sentence: 27;easy;JJ;O
+Sentence: 175;ez;JJ;O
 ;mid;NN;O
+;,;.;O
 ;easy;JJ;O
 ;game;NN;O
-Sentence: 28;end;NN;O
-;woow;NN;O
-;comback;NN;O
+;.;.;O
+Sentence: 176;end;NN;O
+Sentence: 177;woow;NN;B-pra
+Sentence: 178;comback;NN;O
 ;is;VBZ;O
 ;real;JJ;O
-;good;JJ;O
-;game;NN;O
-;someone;NN;O
-;who;WP;O
-;is;VBZ;O
-;new;JJ;O
-Sentence: 29;now;RB;O
+Sentence: 179;gg;JJ;O
+;noob;NN;B-bad
+Sentence: 180;now;RB;O
 ;he;PRP;O
 ;rolls;VBZ;O
-;end;NN;O
-;next;JJ;O
+Sentence: 181;end;NN;O
+Sentence: 182;next;JJ;O
 ;game;NN;O
-;fuck;NN;O
+Sentence: 183;fuck;NN;O
 ;this;DT;O
-;pango;NN;O
-;save;VB;O
+;pango;NN;B-her
+Sentence: 184;save;VB;O
 ;rolls;NN;O
 ;for;IN;O
 ;next;JJ;O
 ;game;NN;O
-;see;VBP;O
-;look;NN;O
+Sentence: 185;see;VB;O
+Sentence: 186;look;NN;O
 ;at;IN;O
 ;him;PRP;O
-;passive;JJ;O
-;now;RB;O
+Sentence: 187;passive;JJ;O
+Sentence: 188;now;RB;O
 ;he;PRP;O
 ;roll;VB;O
-;again;RB;O
-;if;IN;O
+Sentence: 189;again;RB;O
+Sentence: 190;if;IN;O
 ;i;FW;O
 ;know;VB;O
 ;him;PRP;O
 ;in;IN;O
 ;real;JJ;O
 ;life;NN;O
-;i;FW;O
+Sentence: 191;i;FW;O
 ;would;MD;O
 ;have;VB;O
-;kill;VB;O
-;him;PRP;O
-;fucking;VBG;B-bad
-;someone;NN;O
-;who;WP;O
-;is;VBZ;O
-;new;JJ;O
-;pango;NN;O
-Sentence: 30;dude;NN;O
+;kill;VB;B-bad
+;him;PRP;I-bad
+Sentence: 192;fucking;VBG;B-bad
+;noob;NN;B-bad
+;pango;NN;B-her
+Sentence: 193;dude;NN;O
 ;he;PRP;O
-;rage;NN;O
+;rage;NN;B-her
 ;quit;VBD;O
-;not;RB;O
+Sentence: 194;not;RB;O
 ;coming;VBG;O
 ;back;RB;O
-;leave;VBP;O
+Sentence: 195;leave;VBP;O
 ;la;NNP;O
 ;idiot;NN;B-bad
-Sentence: 31;shutup;NN;B-bad
+Sentence: 196;shutup;NN;B-bad
 ;nerd;NN;I-bad
-Sentence: 32;lag;NN;O
+Sentence: 197;lag;NN;O
 ;the;DT;O
 ;fuck;NN;B-bad
 ;up;RP;I-bad
-Sentence: 33;stop;VB;O
+Sentence: 198;stop;VB;O
 ;pause;NN;O
 ;idiot;NN;B-bad
-;oh;UH;O
-;my;PRP$;O
-;god;NN;O
-;stupide;NN;B-bad
+Sentence: 199;omg;UH;O
+Sentence: 200;stupide;NN;B-bad
 ;kids;NNS;I-bad
-Sentence: 34;fuck;NN;B-bad
+Sentence: 201;fuck;NN;B-bad
 ;this;DT;O
 ;shit;NN;B-bad
 ;nap;NN;O
 ;team;NN;O
-;really;RB;O
-Sentence: 35;fuck;NN;B-bad
+Sentence: 202;rly;RB;O
+Sentence: 203;fuck;NN;B-bad
 ;this;DT;O
 ;team;NN;O
-Sentence: 36;bots;NNS;O
-;play;VBP;O
-;better;JJR;O
-;you;PRP;O
+Sentence: 204;bots;NNS;O
+;play;VBP;B-bad
+;better;JJR;I-bad
+Sentence: 205;you;PRP;O
 ;know;VBP;O
-Sentence: 37;instant;JJ;O
-;message;NN;O
-;cancer;NN;O
+Sentence: 206;im;JJ;O
+;cancer;NN;B-her
 ;what;WP;O
 ;the;DT;O
 ;fuck;NN;B-bad
 ;waste;NN;I-bad
-Sentence: 38;ii;FW;O
+Sentence: 207;ii;FW;O
 ;will;MD;O
 ;rap;NN;B-bad
 ;you;PRP;I-bad
 ;moron;VBP;O
-;you;PRP;O
+Sentence: 208;you;PRP;O
 ;are;VBP;O
 ;stupid;JJ;B-bad
-Sentence: 39;laughing;VBG;O
-;out;RP;O
-;loud;JJ;O
-;have;VBP;O
+Sentence: 209;lol;VBG;O
+Sentence: 210;have;VBP;O
 ;fun;NN;O
 ;boys;NNS;O
-;i;FW;O
-;love;NN;O
-;you;PRP;O
-;good;JJ;B-pra
-;game;NN;I-pra
-;well-played;JJ;I-pra
-Sentence: 40;good;JJ;O
-;luck;NN;O
-;get;VB;O
+Sentence: 211;i;FW;O
+;love;NN;B-pra
+;you;PRP;I-pra
+Sentence: 212;ggwp;NN;B-pra
+Sentence: 213;good;JJ;B-pra
+;luck;NN;I-pra
+Sentence: 214;get;VB;O
 ;fucked;VBN;O
 ;good;JJ;B-pra
 ;game;NN;I-pra
-Sentence: 41;suck;VB;B-bad
+Sentence: 215;suck;VB;B-bad
 ;my;PRP$;I-bad
-;penis;NN;I-bad
-;report;NN;O
+;dick;NN;I-bad
+Sentence: 216;report;NN;O
 ;please;VB;O
 ;my;PRP$;O
 ;teams;NNS;O
-Sentence: 42;gay;JJ;O
-;mirana;NN;O
-;helo;NN;O
-;i;FW;O
+Sentence: 217;gay;JJ;B-bad
+;mirana;NN;B-her
+Sentence: 218;helo;NN;O
+Sentence: 219;i;FW;O
 ;fuck;FW;B-bad
 ;your;PRP$;I-bad
 ;young;JJ;I-bad
 ;mom;NN;I-bad
-Sentence: 43;noobs;NN;B-bad
-Sentence: 44;nice;JJ;O
+Sentence: 220;noobs;NN;B-bad
+Sentence: 221;nice;JJ;O
 ;one;CD;O
-;am;VBP;O
+Sentence: 222;am;VBP;O
 ;said;VBD;O
-;no;DT;O
+Sentence: 223;no;DT;O
 ;support;NN;O
 ;someone;RB;O
-;nice;JJ;O
-Sentence: 45;thank;VB;B-pra
+Sentence: 224;nice;JJ;B-pra
+Sentence: 225;thank;VB;B-pra
 ;you;PRP;I-pra
-;4;CD;O
+Sentence: 226;4;CD;O
 ;waiting;VBG;O
-Sentence: 46;what;WDT;O
+Sentence: 227;what;WDT;O
 ;are;VBP;O
 ;well-played;PRP;B-pra
-;supposed;VBN;O
+Sentence: 228;supposed;VBN;O
 ;to;TO;O
 ;do;VB;O
-;without;IN;O
+Sentence: 229;without;IN;O
 ;a;DT;O
 ;carry;VBP;O
-;report;NN;O
+Sentence: 230;report;NN;O
 ;him;PRP;O
-Sentence: 47;how;WRB;O
+Sentence: 231;how;WRB;O
 ;often;RB;O
 ;are;VBP;O
 ;you;RB;O
 ;going;VBG;O
 ;to;TO;O
 ;suicide;NN;O
-;kill;NN;O
+Sentence: 232;kill;NN;O
 ;me;PRP;O
-Sentence: 48;he;PRP;O
+Sentence: 233;he;PRP;O
 ;survived;VBD;O
-;relax;VB;O
-Sentence: 49;fucking;VBG;O
+Sentence: 234;relax;VB;B-pra
+Sentence: 235;fucking;VBG;B-bad
 ;someone;NN;O
 ;who;WP;O
 ;is;VBZ;O
 ;new;JJ;O
 ;hero;NN;O
-;my;PRP$;O
+Sentence: 236;my;PRP$;O
 ;god;NN;O
-;good;JJ;B-pra
+Sentence: 237;good;JJ;B-pra
 ;game;NN;I-pra
-Sentence: 50;dude;NN;O
-;i;FW;O
+Sentence: 238;dude;NN;O
+Sentence: 239;i;FW;O
 ;see;VB;O
 ;you;PRP;O
-;good;JJ;B-pra
-;game;NN;I-pra
-;good;JJ;B-pra
+Sentence: 240;gg;JJ;B-pra
+Sentence: 241;good;JJ;B-pra
 ;game;NN;I-pra
